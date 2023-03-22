@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af3c0c10-a4c5-4d60-a077-7ff2304f432d" name="Changes" comment="add Q3 and Q6">
-      <change afterPath="$PROJECT_DIR$/007_Why Java 8 has introduced default methods/diamondProblem/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007_Why Java 8 has introduced default methods/diamondProblem/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007_Why Java 8 has introduced default methods/diamondProblem/Interface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007_Why Java 8 has introduced default methods/solution/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007_Why Java 8 has introduced default methods/solution/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007_Why Java 8 has introduced default methods/solution/Interface2.java" afterDir="false" />
+    <list default="true" id="af3c0c10-a4c5-4d60-a077-7ff2304f432d" name="Changes" comment="add Q7">
+      <change afterPath="$PROJECT_DIR$/Question 014_What is exception and exception handling/exceptionHandled/TestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question 014_What is exception and exception handling/exceptionThrown/TestException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007_Why Java 8 has introduced default methods/diamondProblem/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question 007_Why Java 8 has introduced default methods/diamondProblem/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007_Why Java 8 has introduced default methods/diamondProblem/Interface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question 007_Why Java 8 has introduced default methods/diamondProblem/Interface1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007_Why Java 8 has introduced default methods/diamondProblem/Interface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question 007_Why Java 8 has introduced default methods/diamondProblem/Interface2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007_Why Java 8 has introduced default methods/solution/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question 007_Why Java 8 has introduced default methods/solution/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007_Why Java 8 has introduced default methods/solution/Interface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question 007_Why Java 8 has introduced default methods/solution/Interface1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007_Why Java 8 has introduced default methods/solution/Interface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Question 007_Why Java 8 has introduced default methods/solution/Interface2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grokking-The-Java-Developer-Interview-Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Grokking-The-Java-Developer-Interview-Solutions.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679504154611</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add Q7">
+      <created>1679505292410</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679505292410</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +202,7 @@
     <MESSAGE value="hello world" />
     <MESSAGE value="deleted maven project files" />
     <MESSAGE value="add Q3 and Q6" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Q3 and Q6" />
+    <MESSAGE value="add Q7" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Q7" />
   </component>
 </project>
