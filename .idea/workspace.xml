@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af3c0c10-a4c5-4d60-a077-7ff2304f432d" name="Changes" comment="add Q16">
+    <list default="true" id="af3c0c10-a4c5-4d60-a077-7ff2304f432d" name="Changes" comment="add Q17">
+      <change afterPath="$PROJECT_DIR$/Question 019_How to handle multiple exceptions together/Error_showing_that_we_have_to_handle_most_specific_exceptions_first/DemoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question 019_How to handle multiple exceptions together/Using_multiple_catch_blocks/DemoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question 019_How to handle multiple exceptions together/Using_pipe_symbol/DemoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grokking-The-Java-Developer-Interview-Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Grokking-The-Java-Developer-Interview-Solutions.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679508592143</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add Q17">
+      <created>1679508884446</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679508884446</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add Q17">
+      <created>1679509910950</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679509910950</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +228,7 @@
     <MESSAGE value="add Q7" />
     <MESSAGE value="add Q14" />
     <MESSAGE value="add Q16" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Q16" />
+    <MESSAGE value="add Q17" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Q17" />
   </component>
 </project>

@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Question 014_What is exception and exception handling" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Question 016_What are the different types of exceptions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Question 017_How exception handling is done in java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 019_How to handle multiple exceptions together" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Question_002_What is an abstract class" isTestSource="false" />
     </content>
   </component>
