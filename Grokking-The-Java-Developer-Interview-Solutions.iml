@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Question 007_Why Java 8 has introduced default methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Question 014_What is exception and exception handling" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Question 016_What are the different types of exceptions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Question 017_How exception handling is done in java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Question_002_What is an abstract class" isTestSource="false" />
     </content>
   </component>
